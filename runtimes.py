@@ -21,7 +21,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     
     # print headers
-    print('|                | `timsort`     | `merge_sorted`| `merge_sorted`|')
+    print('|                | `timsort`     | `merge_sorted`| `quick_sorted`|')
     print('| -------------- | ------------- | ------------- | ------------- |')
 
     # perform the runtime tests
