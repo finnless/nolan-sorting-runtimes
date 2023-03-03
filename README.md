@@ -119,7 +119,7 @@ $ python3 runtimes.py --max_x=22
 ```
 and copy/paste the resulting table into this README file below this line.
 
-|                | `timsort`     | `merge_sorted`| `merge_sorted`|
+|                | `timsort`     | `merge_sorted`| `quick_sorted`|
 | -------------- | ------------- | ------------- | ------------- |
 | `len(xs)=2**0` |   5.30e-06    |   3.47e-06    |   3.01e-06    |
 | `len(xs)=2**1` |   2.63e-06    |   1.02e-05    |   1.22e-05    |
